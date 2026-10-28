@@ -142,7 +142,7 @@ text-align: left;
 }
 #Premium {
     width: 100%;
-    padding: 0 40px; /* Сверху 0, чтобы картинка стыковалась с предыдущим блоком, снизу отступ */
+    padding: 0 40px; 
     background-color: #ffffff;
 }
 .text span{
@@ -160,7 +160,7 @@ color: black;
     height: 144px;
 }
 .big{
-     max-width: 960px;      /* Уменьшили общую ширину с 1140px до 960px, чтобы сблизить блоки к центру */
+     max-width: 960px; 
     margin: 0 auto;
     padding: 0 20px;
     display: flex;
@@ -276,7 +276,7 @@ color: #999999;
     background-color: #0b0e14;
     padding: 80px 0;
     color: #ffffff;
-    height: auto !important;
+    height: auto ;
 }
 
 .footer-container {
